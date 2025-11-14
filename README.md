@@ -5,9 +5,9 @@ The objective is to analyze the Superstore dataset (2014–2017) and present mea
 ---
 
 ## Tools Used
-- **Power BI**
-- **Microsoft Excel** (for basic checks)
-- **GitHub** (for project hosting)
+- **Power BI** 
+- **Microsoft Excel** 
+- **GitHub** 
 
 ---
 
